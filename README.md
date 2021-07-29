@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-##I’m Emily, a Front End Website Developer and Startup Community Manager in Norwalk, Connecticut USA. 
+I’m Emily, a Front End Website Developer and Startup Community Manager in Norwalk, Connecticut USA. 
 
 Currently working at @SnyderGrp
 
