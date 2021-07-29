@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 👋
+
+##I’m Emily, a Front End Website Developer and Startup Community Manager in Norwalk, Connecticut USA. 
+
+Currently working at @SnyderGrp
 
 <!--
 **heyemmibee/heyemmibee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
